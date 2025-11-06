@@ -100,6 +100,15 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yashtiwari515&bg_color=0d1117&color=00b4ff&line=0077ff&point=66ccff&area=true&area_color=003d7a&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
+
+
 
 ### 🌐 Connect with Me
 
