@@ -18,7 +18,7 @@
   <br/>
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=💻+MERN+Stack+Developer;🔥+Problem+Solver+%26+Tech+Explorer;📲+Mobile+App+Wizard;" alt="Typing Animation" style="margin-top:-20px; border:none;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=800&lines=💻+Full+Stack+Developer;🔥+Problem+Solver+%26+Tech+Explorer;📲+Mobile+App+Wizard;" alt="Typing Animation" style="margin-top:-20px; border:none;" />
 
 </div>
 
