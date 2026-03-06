@@ -26,7 +26,7 @@
 <br/>
 
 ### 🧠 About Me  
-- 💼 MERN Stack Developer & Mobile Apps Wizard!
+- 💼 Full Stack Developer & Mobile Apps Wizard!
 - 🎯 Focused on **building high-performance website & apps**  
 - 🧩 Interested in **3D Web, AI integrations, and modern frontends**  
 - 📫 Reach me at: **tiwariyash515@gmail.com**  
@@ -67,7 +67,7 @@
 
 <h2 style="color:#00D9FF; text-shadow: 0 0 15px #00D9FF;">🗄️ Database</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,appwrite,firebase" 
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,appwrite,firebase,postgresql" 
        alt="Databases" 
        style="transition: transform 0.3s; margin: 10px;" 
        onmouseover="this.style.transform='scale(1.15)'" 
@@ -76,7 +76,7 @@
 
 <h2 style="color:#00D9FF; text-shadow: 0 0 15px #00D9FF;">🧰 Tools & Platforms</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,render" 
        alt="Tools" 
        style="transition: transform 0.3s; margin: 10px;" 
        onmouseover="this.style.transform='scale(1.15)'" 
