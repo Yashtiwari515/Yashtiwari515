@@ -76,7 +76,7 @@
 
 <h2 style="color:#00D9FF; text-shadow: 0 0 15px #00D9FF;">🧰 Tools & Platforms</h2>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,render" 
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" 
        alt="Tools" 
        style="transition: transform 0.3s; margin: 10px;" 
        onmouseover="this.style.transform='scale(1.15)'" 
